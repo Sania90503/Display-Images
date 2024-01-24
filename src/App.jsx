@@ -10,12 +10,7 @@ function App() {
   const cards = data.map(x=>{
 return <Card 
 key={x.id}
-img = {x.coverImg}
-rating={x.stats.rating}
-reviewCount={x.stats.reviewCount}
-country={x.location}
-title={x.title}
-price={x.price}
+{...x}
 />
   })
 
