@@ -1,0 +1,81 @@
+.img{
+ max-width: 100px;
+}
+nav{
+  height: 15%;
+  padding: 20px 36px; 
+  display: flex;
+  box-shadow: rgb(27, 27, 156);
+}
+
+*{
+  box-sizing: border-box;
+  margin: 5px;
+}
+
+body{
+  margin: 0px;
+  font-family:'Times New Roman', Times, serif;
+  
+}
+section{
+  padding: 20px;
+}
+.hero{
+  display: flex;
+  flex-direction: column;
+}
+.img1{
+max-width: 40%;
+align-self: center;
+margin-top: -3%;
+}
+.cards-list{
+  display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    overflow-x: auto;
+}
+.card{
+  width:30%;
+  flex: 0 0 auto;
+  flex-direction: column;
+  display: flex;
+}
+.cards-list {
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+}
+
+.star{
+  height: 15%;
+}
+.gray{
+  color: rgb(105, 103, 103);
+}
+.card--image{
+  width: 100%;
+  border-radius: 10px;
+  margin-bottom: 10px; 
+}
+
+.card--price {
+  margin-top: auto;
+  font-size: large;
+}
+
+.card--title {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-size: 1rem;
+}
+span{
+  font-size: medium;
+}
+
+
+ 
+
+
+
