@@ -10,7 +10,10 @@ export default function Hero() {
 
 
             <h1>Experience</h1>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam ullam dolorem quibusdam doloribus, officia numquam laborum possimus, doloremque ipsam et nisi illo enim. Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus perspiciatis sed, eveniet error similique veniam sequi molestias, debitis officia, culpa in dolorem doloremque. Ea alias voluptatibus excepturi recusandae quia cumque. Lorem ipsum dolor sit amet. </p>
+            <p> 
+            "Join unique interactive activities led by  one-of-a-kind hosts—all without leaving home."
+
+The opportunity to participate in distinctive and engaging activities facilitated by unique hosts, all from the comfort of one's home. It promotes a sense of exclusivity and individuality in the hosts, suggesting that they offer experiences not commonly found elsewhere. The use of "interactive activities" indicates a hands-on and participatory nature, while the phrase "without leaving home" highlights the convenience and accessibility of these experiences, appealing to individuals seeking novel and personalized engagements from their own living spaces.</p>
             </section>
         </>
     );
